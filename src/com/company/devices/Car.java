@@ -64,4 +64,3 @@ public class Car extends Device{
         System.out.println("Zaimplementuj mnie");
     }
 }
-© 2021 GitHub, Inc.
